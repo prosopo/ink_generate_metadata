@@ -1,4 +1,4 @@
-The dapp contract cross contract calls the protocol contract. The dapp contract uses the references protocol via `path`.
+The dapp contract cross contract calls the protocol contract. The dapp contract references protocol via `path`.
 
 To test the cross contract build, run the following:
 
