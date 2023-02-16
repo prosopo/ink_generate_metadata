@@ -1,0 +1,6 @@
+[submodule "protocol"]
+	path = protocol
+	url = git@github.com:prosopo/protocol.git
+[submodule "dapp-example"]
+	path = dapp-example
+	url = git@github.com:prosopo/dapp-example.git
